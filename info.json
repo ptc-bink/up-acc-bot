@@ -1,0 +1,98 @@
+{
+    "python-AI": {
+        "first-name": "Hugo",
+        "second-name": "Rogers",
+        "country": "Norway",
+        "password": "1qasde32",
+        "role": "Python, AI Engineer | NLP, ML, DL, Neural network, Django, Flask",
+        "experience": [
+            {
+                "title": "AI Engineer",
+                "company": "Read AI",
+                "city": "Seattle",
+                "country": "United States",
+                "start": "2021.4",
+                "end": "2023.4"
+            },
+            {
+                "title": "AI Assistant",
+                "company": "Versed AI",
+                "city": "London",
+                "country": "United Kingdom",
+                "start": "2019.9",
+                "end": "2021.2"
+            },
+            {
+                "title": "Senior Python Developer",
+                "company": "Pixyl",
+                "city": "La Tronche",
+                "country": "France",
+                "start": "2015.4",
+                "end": "2019.3"
+            },
+            {
+                "title": "Junior Backend Developer of Python",
+                "company": "NEC OncoImmunity AS",
+                "city": "Oslo",
+                "country": "Norway",
+                "start": "2014.9",
+                "end": "2015.2"
+            }
+        ],
+        "education": [
+            {
+                "school": "University of Georgia",
+                "degree": "Bachelor of Computer Science (BCompSc)",
+                "field": "Computer science",
+                "start": "2012",
+                "end": "2014"
+            },
+            {
+                "school": "Norwegian University of Science & Technology (NTNU)",
+                "degree": "Bachelor of Computer Applications",
+                "field": "Computer science",
+                "start": "2010",
+                "end": "2012"
+            }
+        ],
+        "language": "Fluent",
+        "skills": [
+            "Computer Network",
+            "Computing & Networking",
+            "Django",
+            "Neural Network",
+            "Artificial Neural Network",
+            "Network Engineering",
+            "Graph",
+            "Flask",
+            "Natural Language Processing",
+            "Deep Neural Network",
+            "Artificial Intelligence",
+            "Deep Learning",
+            "Machine Learning Model",
+            "Machine Learning",
+            "Deep Learning Modeling"
+        ],
+        "overview": "Development is my dream. To be honest it is not so easy and I don't know how to do it. But I didn't give up and I am standing here.",
+        "services": [
+            "Data Analysis & Testing",
+            "Data Extraction/ETL",
+            "Data Mining & Management",
+            "Data Design & Visualization",
+            "Al & Machine Learning",
+            "Web Development",
+            "Blockchain, NFT & Cryptocurrency",
+            "Game Design & Development",
+            "Desktop Application Development",
+            "Database Management & Administration"
+        ],
+        "rate": "30",
+        "information": {
+            "street": "Schultz' gate",
+            "apt": "12B",
+            "city": "Oslo",
+            "zipcode": "0365",
+            "phone": "27243893"
+        }
+    }
+}
